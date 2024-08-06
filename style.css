@@ -9,3 +9,12 @@
     font-size: 24px;
     font-weight: bold;
 }
+
+.centralizar {
+    display: flex;
+    justify-content: center;
+}
+
+.cor-base {
+    color: #ffb74c !important;
+}
