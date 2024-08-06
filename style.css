@@ -1,0 +1,11 @@
+.header-custon {
+    background-color: #ffb74c;
+        display: flex;
+        justify-content: center;
+}
+
+.header-custon p {
+    color: #ff950d;
+    font-size: 24px;
+    font-weight: bold;
+}
