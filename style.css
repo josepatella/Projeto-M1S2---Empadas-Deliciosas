@@ -22,3 +22,8 @@
 .cor-titulo {
     color: #ff950d !important;
 }
+
+.espacamento {
+    display: flex;
+    justify-content: space-around;
+}
