@@ -27,3 +27,7 @@
     display: flex;
     justify-content: space-around;
 }
+
+.cor-fundo {
+    background-color: #ffb74c;
+}
